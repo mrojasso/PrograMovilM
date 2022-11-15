@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615580708151",
+    "project_id": "dispositivosmovilesm",
+    "storage_bucket": "dispositivosmovilesm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615580708151:android:d338a838d18980d692feb2",
+        "android_client_info": {
+          "package_name": "com.dispositivosmoviles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615580708151-ppero619coj6fs0ktep616m6khmirjds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5U4qBu8mfwYEAr5Gg9HYgPxE4xiURqXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615580708151-ppero619coj6fs0ktep616m6khmirjds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
